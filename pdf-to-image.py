@@ -6,6 +6,7 @@ import os
 poppler_path = r"D:\Program Files\poppler-22.04.0\Library\bin"
 
 
+
 if __name__ == "__main__":
     try:
         for file in os.listdir():
