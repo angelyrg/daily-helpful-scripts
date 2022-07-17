@@ -1,4 +1,5 @@
-from PIL import Image
+#Install Pillow First [ pip install Pillow ]
+from PIL import Image  
 import os
 
 if __name__ == "__main__":
